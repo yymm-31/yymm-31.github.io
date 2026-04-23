@@ -52,7 +52,7 @@ https://templatemo.com/tm-600-prism-flux
                 title: '贵金属交易客户端',
                 description: '这是一款基于MFC开发的交易客户端，基于原生重绘的美化控件、K线图、实时行情显示、注册、买卖交易、多线程等。',
                 image: 'images/tran.jpg',
-                tech: ['Unity', 'ARCore', 'Computer Vision']
+                tech: ['MFC','控件美化','自绘控件','websocket', '多线程', 'hp-socket','TCP/IP','UDP']
             },
             {
                 id: 7,
