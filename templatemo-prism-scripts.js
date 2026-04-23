@@ -69,7 +69,7 @@ https://templatemo.com/tm-600-prism-flux
             { name: 'C++', icon: 'images/cpp_48x48.png', level: 80, category: 'PC' },
             { name: 'keil', icon: 'images/keil_48x48.jpg', level: 80, category: 'Embedded' },
             { name: 'EWARM', icon: 'images/EWARM_48x48.jpg', level: 80, category: 'Embedded' },
-            { name: 'Altium Designer', icon: 'images/ad_48x48.png', level: 80, category: 'Embedded' },
+            { name: 'Altium Designer', icon: 'images/ad_48X48.png', level: 80, category: 'Embedded' },
             { name: 'Solidworks', icon: 'images/solidworks_48x48.jpg', level: 80, category: 'Structure' },
             { name: 'CAD', icon: 'images/CAD_48x48.jpg', level: 80, category: 'Structure' },
             { name: 'Axure RP9', icon: 'images/AxureRP9.ico', level: 80, category: 'Project' },
