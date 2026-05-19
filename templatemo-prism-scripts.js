@@ -298,10 +298,6 @@ https://templatemo.com/tm-600-prism-flux
                             <div class="hexagon-content">
 							    <div class="skill-icon-hex"><img src=${skill.icon}  width="64" height="64"></div>
                                 <div class="skill-name-hex">${skill.name}</div>
-                                <div class="skill-level">
-                                    <div class="skill-level-fill" style="width: ${skill.level}%"></div>
-                                </div>
-                                <div class="skill-percentage-hex">${skill.level}%</div>
                             </div>
                         </div>
                     `;
